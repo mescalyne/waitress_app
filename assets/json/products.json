@@ -1,0 +1,82 @@
+[
+    {
+        "id": "biryani",
+        "name": "Biryani",
+        "filename": "biryani.png"
+    },
+    {
+        "id": "cocktail",
+        "name": "Cocktail",
+        "filename": "cocktail.png"
+    },
+    {
+        "id": "curry",
+        "name": "Curry",
+        "filename": "curry.png"
+    },
+    {
+        "id": "hamburger",
+        "name": "Hamburger",
+        "filename": "hamburger.png"
+    },
+    {
+        "id": "holi",
+        "name": "Holi",
+        "filename": "holi.png"
+    },
+    {
+        "id": "lime-juice",
+        "name": "Lime Juice",
+        "filename": "lime-juice.png"
+    },
+    {
+        "id": "meat",
+        "name": "Meat",
+        "filename": "meat.png"
+    },
+    {
+        "id": "mojito",
+        "name": "Mojito",
+        "filename": "mojito.png"
+    },
+    {
+        "id": "pancake",
+        "name": "Pancake",
+        "filename": "pancake.png"
+    },
+    {
+        "id": "pineapple",
+        "name": "Pineapple",
+        "filename": "pineapple.png"
+    },
+    {
+        "id": "pizza-slice",
+        "name": "Pizza Slice",
+        "filename": "pizza-slice.png"
+    },
+    {
+        "id": "shisha",
+        "name": "Shisha",
+        "filename": "shisha.png"
+    },
+    {
+        "id": "snack",
+        "name": "Snack",
+        "filename": "snack.png"
+    },
+    {
+        "id": "soda-can",
+        "name": "Soda Can",
+        "filename": "soda-can.png"
+    },
+    {
+        "id": "soda",
+        "name": "Soda",
+        "filename": "soda.png"
+    },
+    {
+        "id": "tikka-masala",
+        "name": "Masala",
+        "filename": "tikka-masala.png"
+    }
+]
